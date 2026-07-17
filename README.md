@@ -60,9 +60,9 @@ npm install
 npm run dev
 
 
-## API Integration
+API Integration
 This project uses JSONPlaceholder API for practicing CRUD operations.
 
-### API:
+API:
 
 https://jsonplaceholder.typicode.com/users
