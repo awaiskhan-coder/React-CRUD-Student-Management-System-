@@ -51,7 +51,7 @@ Users can add new students, view student records, update existing information, a
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/your-username/React-CRUD-Student-Management-System.git
 
 cd React-CRUD-Student-Management-System
 
